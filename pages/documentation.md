@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Documentation
+title: 리뷰
 category: documentation
 permalink: /documentation
 ---

@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Sample Posts
+title: 개발
 category: sample
 permalink: /sample-posts
 ---

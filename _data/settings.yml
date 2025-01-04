@@ -7,11 +7,10 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: '소개',  url: 'facts'}
+- {name: '소개',              url: 'about'}
 - {name: '잡담', url: 'resources'}
 - {name: '개발',       url: 'sample-posts'}
 - {name: '리뷰',      url: 'documentation'}
-- {name: '소개',              url: 'about'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:

@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Learning Resources
+title: 잡담
 category: resources
 permalink: /resources
 ---
